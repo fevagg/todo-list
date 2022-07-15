@@ -1,0 +1,10 @@
+.completed{
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+#task::placeholder{
+    font-family: monospace;
+    font-weight: 700;
+    color: rgb(0, 0, 0);
+    opacity: 0.65;
+}
